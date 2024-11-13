@@ -1,3 +1,7 @@
+> [!TIP]
+> Star the repo if you found it usefull.
+
+
 # GAN Implementation in Keras and PyTorch
 
 This repository provides implementations of a Generative Adversarial Network (GAN) using both Keras and PyTorch. The PyTorch implementation yielded better results with optimized training time.
